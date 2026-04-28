@@ -1,1 +1,4 @@
-app.example.com
+controller.server.in
+
+[prod]
+controller
